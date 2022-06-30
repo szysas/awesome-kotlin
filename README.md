@@ -473,6 +473,7 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-networking"></a>Networking <sup>[Back ⇈](#libraries-frameworks-networking-subcategory)</sup>
 * [seniorjoinu/reliable-udp](https://github.com/seniorjoinu/reliable-udp) - Multiplexed, coroutine-powered reliable UDP for Kotlin using fountain codes
+* [open-coap/kotlin-mbedtls](https://github.com/open-coap/kotlin-mbedtls) - Integration with mbedtls library to provide DTLS client and server in jvm
 
 ### <a name="libraries-frameworks-editors"></a>Editors <sup>[Back ⇈](#libraries-frameworks-editors-subcategory)</sup>
 * [sargunster/kotlin-textmate-bundle](https://github.com/sargunster/kotlin-textmate-bundle) - Kotlin bundle for TextMate.
